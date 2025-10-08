@@ -1,0 +1,29 @@
+[
+  {
+    "code": "WELCOME10",
+    "type": "percent",
+    "value": 10,
+    "appliesTo": "all"
+  },
+  {
+    "code": "SAVE20",
+    "type": "fixed",
+    "value": 20,
+    "minimumSubtotal": 100,
+    "appliesTo": "all"
+  },
+  {
+    "code": "LATEST5",
+    "type": "fixed",
+    "value": 5,
+    "appliesTo": "collection",
+    "targetIds": ["latest-arrivals"]
+  },
+  {
+    "code": "WELLNESS15",
+    "type": "percent",
+    "value": 15,
+    "appliesTo": "category",
+    "targetIds": ["wellness"]
+  }
+]

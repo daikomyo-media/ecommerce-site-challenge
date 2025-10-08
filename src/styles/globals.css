@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: light;
+}
+
+body {
+  @apply font-sans antialiased text-slate-900 bg-white;
+}
+
+* {
+  @apply border-slate-200;
+}
+
+a {
+  @apply text-blue-600 hover:text-blue-700;
+}

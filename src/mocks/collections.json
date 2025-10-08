@@ -1,0 +1,27 @@
+[
+  {
+    "id": "col-latest",
+    "slug": "latest-arrivals",
+    "title": "Latest Arrivals"
+  },
+  {
+    "id": "col-signature",
+    "slug": "signature",
+    "title": "Signature Staples"
+  },
+  {
+    "id": "col-seasonal",
+    "slug": "seasonal",
+    "title": "Seasonal Favorites"
+  },
+  {
+    "id": "col-limited",
+    "slug": "limited",
+    "title": "Limited Edition"
+  },
+  {
+    "id": "col-wellness",
+    "slug": "wellness",
+    "title": "Wellness Rituals"
+  }
+]

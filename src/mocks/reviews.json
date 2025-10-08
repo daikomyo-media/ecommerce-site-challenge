@@ -1,0 +1,101 @@
+[
+  {
+    "id": "rev-aur-1",
+    "productId": "prod-aurora-mug",
+    "rating": 5,
+    "title": "Perfect morning companion",
+    "body": "Love the weight and how the glaze catches the light. Keeps my coffee warm longer than my old mug.",
+    "author": "Samantha R.",
+    "date": "2025-01-12"
+  },
+  {
+    "id": "rev-aur-2",
+    "productId": "prod-aurora-mug",
+    "rating": 4,
+    "title": "Beautiful but delicate",
+    "body": "Looks gorgeous and feels handcrafted. Just be gentle with it—hand washing recommended.",
+    "author": "Jordan K.",
+    "date": "2025-02-04"
+  },
+  {
+    "id": "rev-haven-1",
+    "productId": "prod-haven-throw",
+    "rating": 5,
+    "title": "Cozy without being heavy",
+    "body": "We keep fighting over this throw at home. Ordering a second color now!",
+    "author": "Emily P.",
+    "date": "2024-12-18"
+  },
+  {
+    "id": "rev-haven-2",
+    "productId": "prod-haven-throw",
+    "rating": 4,
+    "title": "Lovely texture",
+    "body": "Soft and breathable. Took one star off because the fringe needed a quick trim.",
+    "author": "Marcus D.",
+    "date": "2025-01-27"
+  },
+  {
+    "id": "rev-lumen-1",
+    "productId": "prod-lumen-lamp",
+    "rating": 4,
+    "title": "Great task lighting",
+    "body": "Adjustable arms are smooth and the warm light setting is ideal for evening work.",
+    "author": "Priya S.",
+    "date": "2025-02-10"
+  },
+  {
+    "id": "rev-summit-1",
+    "productId": "prod-summit-bottle",
+    "rating": 5,
+    "title": "Hydration hero",
+    "body": "Took this bottle hiking in Utah—no leaks and water stayed cold all day.",
+    "author": "Alicia F.",
+    "date": "2024-11-30"
+  },
+  {
+    "id": "rev-orbit-1",
+    "productId": "prod-orbit-watch",
+    "rating": 4,
+    "title": "Classic design",
+    "body": "Feels premium on wrist. Would love a darker dial option in the future.",
+    "author": "Liam H.",
+    "date": "2025-01-05"
+  },
+  {
+    "id": "rev-coast-1",
+    "productId": "prod-coast-tote",
+    "rating": 5,
+    "title": "My new daily bag",
+    "body": "Carries laptop + gym gear without bulking up. The waxed canvas ages beautifully.",
+    "author": "Nadia W.",
+    "date": "2025-01-22"
+  },
+  {
+    "id": "rev-trail-1",
+    "productId": "prod-trail-jacket",
+    "rating": 5,
+    "title": "Weather-ready",
+    "body": "Wore this through a rainy weekend in Portland—stayed dry and warm without overheating.",
+    "author": "Chris L.",
+    "date": "2025-02-14"
+  },
+  {
+    "id": "rev-serene-1",
+    "productId": "prod-serene-candle",
+    "rating": 5,
+    "title": "Spa at home",
+    "body": "The scent is calming and fills the room quickly. Already bought one for every bedroom.",
+    "author": "Michelle T.",
+    "date": "2025-01-03"
+  },
+  {
+    "id": "rev-pulse-1",
+    "productId": "prod-pulse-earbuds",
+    "rating": 3,
+    "title": "Good but not great",
+    "body": "Sound is solid and the case charges fast. Eartips could be more comfortable for long wear.",
+    "author": "Daniel G.",
+    "date": "2025-02-01"
+  }
+]

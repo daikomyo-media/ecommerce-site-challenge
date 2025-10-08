@@ -1,0 +1,400 @@
+[
+  {
+    "id": "prod-aurora-mug",
+    "slug": "aurora-ceramic-mug",
+    "title": "Aurora Ceramic Mug",
+    "description": "Hand-thrown ceramic mug with a reactive glaze inspired by northern lights. Comfortable handle and dishwasher safe.",
+    "price": 24,
+    "compareAtPrice": 32,
+    "images": [
+      "https://picsum.photos/seed/prod-aurora-mug-1/800/800",
+      "https://picsum.photos/seed/prod-aurora-mug-2/800/800"
+    ],
+    "collections": ["latest-arrivals", "signature"],
+    "categories": ["home"],
+    "variants": [
+      {
+        "id": "var-aurora-mug-white",
+        "title": "Polar White",
+        "sku": "MUG-AUR-W",
+        "price": 24,
+        "inventory": 45,
+        "attributes": {
+          "color": "White",
+          "size": "12oz"
+        }
+      },
+      {
+        "id": "var-aurora-mug-midnight",
+        "title": "Midnight Sky",
+        "sku": "MUG-AUR-M",
+        "price": 26,
+        "inventory": 18,
+        "attributes": {
+          "color": "Navy",
+          "size": "12oz"
+        }
+      }
+    ],
+    "rating": 4.6,
+    "reviewCount": 18
+  },
+  {
+    "id": "prod-haven-throw",
+    "slug": "haven-wool-throw",
+    "title": "Haven Merino Throw",
+    "description": "Lightweight merino wool throw woven in Portugal. Perfect for layering on sofas or beds year-round.",
+    "price": 148,
+    "images": [
+      "https://picsum.photos/seed/prod-haven-throw-1/800/800",
+      "https://picsum.photos/seed/prod-haven-throw-2/800/800"
+    ],
+    "collections": ["signature"],
+    "categories": ["home"],
+    "variants": [
+      {
+        "id": "var-haven-throw-stone",
+        "title": "Stone",
+        "sku": "THR-HAV-STN",
+        "price": 148,
+        "inventory": 27,
+        "attributes": {
+          "color": "Gray",
+          "size": "50x70"
+        }
+      },
+      {
+        "id": "var-haven-throw-moss",
+        "title": "Moss",
+        "sku": "THR-HAV-MOS",
+        "price": 148,
+        "inventory": 22,
+        "attributes": {
+          "color": "Green",
+          "size": "50x70"
+        }
+      }
+    ],
+    "rating": 4.8,
+    "reviewCount": 42
+  },
+  {
+    "id": "prod-lumen-lamp",
+    "slug": "lumen-desk-lamp",
+    "title": "Lumen Adjustable Desk Lamp",
+    "description": "Minimal aluminum desk lamp with three-point articulation and warm LED lighting preset modes.",
+    "price": 198,
+    "images": [
+      "https://picsum.photos/seed/prod-lumen-lamp-1/800/800",
+      "https://picsum.photos/seed/prod-lumen-lamp-2/800/800"
+    ],
+    "collections": ["latest-arrivals", "limited"],
+    "categories": ["tech", "home"],
+    "variants": [
+      {
+        "id": "var-lumen-lamp-black",
+        "title": "Matte Black",
+        "sku": "LMP-LUM-BLK",
+        "price": 198,
+        "inventory": 35,
+        "attributes": {
+          "color": "Black"
+        }
+      },
+      {
+        "id": "var-lumen-lamp-brass",
+        "title": "Brushed Brass",
+        "sku": "LMP-LUM-BRS",
+        "price": 218,
+        "inventory": 12,
+        "attributes": {
+          "color": "Brass"
+        }
+      }
+    ],
+    "rating": 4.4,
+    "reviewCount": 11
+  },
+  {
+    "id": "prod-summit-bottle",
+    "slug": "summit-insulated-bottle",
+    "title": "Summit Insulated Bottle",
+    "description": "Double-wall stainless steel bottle keeps drinks cold for 24 hours or hot for 12. Includes interchangeable lid set.",
+    "price": 38,
+    "images": [
+      "https://picsum.photos/seed/prod-summit-bottle-1/800/800",
+      "https://picsum.photos/seed/prod-summit-bottle-2/800/800"
+    ],
+    "collections": ["seasonal", "latest-arrivals"],
+    "categories": ["outdoor", "wellness"],
+    "variants": [
+      {
+        "id": "var-summit-bottle-slate",
+        "title": "Slate",
+        "sku": "BOT-SUM-SLT",
+        "price": 38,
+        "inventory": 60,
+        "attributes": {
+          "color": "Gray",
+          "size": "20oz"
+        }
+      },
+      {
+        "id": "var-summit-bottle-sunrise",
+        "title": "Sunrise",
+        "sku": "BOT-SUM-SUN",
+        "price": 38,
+        "inventory": 32,
+        "attributes": {
+          "color": "Orange",
+          "size": "20oz"
+        }
+      }
+    ],
+    "rating": 4.7,
+    "reviewCount": 29
+  },
+  {
+    "id": "prod-orbit-watch",
+    "slug": "orbit-field-watch",
+    "title": "Orbit Field Watch",
+    "description": "Swiss movement watch with a brushed steel case and quick-release woven strap. Water resistant up to 100m.",
+    "price": 268,
+    "compareAtPrice": 298,
+    "images": [
+      "https://picsum.photos/seed/prod-orbit-watch-1/800/800",
+      "https://picsum.photos/seed/prod-orbit-watch-2/800/800"
+    ],
+    "collections": ["limited"],
+    "categories": ["accessories", "tech"],
+    "variants": [
+      {
+        "id": "var-orbit-watch-sand",
+        "title": "Sand Strap",
+        "sku": "WAT-ORB-SND",
+        "price": 268,
+        "inventory": 16,
+        "attributes": {
+          "strap": "Sand Nylon"
+        }
+      },
+      {
+        "id": "var-orbit-watch-graphite",
+        "title": "Graphite Strap",
+        "sku": "WAT-ORB-GPH",
+        "price": 268,
+        "inventory": 14,
+        "attributes": {
+          "strap": "Graphite Nylon"
+        }
+      }
+    ],
+    "rating": 4.5,
+    "reviewCount": 9
+  },
+  {
+    "id": "prod-coast-tote",
+    "slug": "coast-market-tote",
+    "title": "Coast Market Tote",
+    "description": "Waxed canvas tote with interior laptop sleeve and zip pocket. Designed for daily errands and weekend escapes.",
+    "price": 128,
+    "images": [
+      "https://picsum.photos/seed/prod-coast-tote-1/800/800",
+      "https://picsum.photos/seed/prod-coast-tote-2/800/800"
+    ],
+    "collections": ["signature"],
+    "categories": ["accessories", "apparel"],
+    "variants": [
+      {
+        "id": "var-coast-tote-navy",
+        "title": "Navy",
+        "sku": "TOT-COA-NVY",
+        "price": 128,
+        "inventory": 40,
+        "attributes": {
+          "color": "Navy"
+        }
+      },
+      {
+        "id": "var-coast-tote-caramel",
+        "title": "Caramel",
+        "sku": "TOT-COA-CAR",
+        "price": 128,
+        "inventory": 36,
+        "attributes": {
+          "color": "Brown"
+        }
+      }
+    ],
+    "rating": 4.9,
+    "reviewCount": 53
+  },
+  {
+    "id": "prod-terrace-planter",
+    "slug": "terrace-stone-planter",
+    "title": "Terrace Stone Planter",
+    "description": "Hand-cast concrete planter with drainage channel and removable walnut stand. Suitable for indoor or outdoor use.",
+    "price": 72,
+    "images": [
+      "https://picsum.photos/seed/prod-terrace-planter-1/800/800",
+      "https://picsum.photos/seed/prod-terrace-planter-2/800/800"
+    ],
+    "collections": ["seasonal"],
+    "categories": ["home", "outdoor"],
+    "variants": [
+      {
+        "id": "var-terrace-planter-small",
+        "title": "Small",
+        "sku": "PLN-TER-SML",
+        "price": 62,
+        "inventory": 22,
+        "attributes": {
+          "size": "6in"
+        }
+      },
+      {
+        "id": "var-terrace-planter-medium",
+        "title": "Medium",
+        "sku": "PLN-TER-MED",
+        "price": 72,
+        "inventory": 28,
+        "attributes": {
+          "size": "8in"
+        }
+      },
+      {
+        "id": "var-terrace-planter-large",
+        "title": "Large",
+        "sku": "PLN-TER-LRG",
+        "price": 88,
+        "inventory": 15,
+        "attributes": {
+          "size": "10in"
+        }
+      }
+    ],
+    "rating": 4.3,
+    "reviewCount": 21
+  },
+  {
+    "id": "prod-trail-jacket",
+    "slug": "trail-lined-jacket",
+    "title": "Trail Lined Jacket",
+    "description": "Water-resistant shell with recycled fleece lining and adjustable cuffs. Built for shoulder-season adventures.",
+    "price": 198,
+    "images": [
+      "https://picsum.photos/seed/prod-trail-jacket-1/800/800",
+      "https://picsum.photos/seed/prod-trail-jacket-2/800/800"
+    ],
+    "collections": ["latest-arrivals", "seasonal"],
+    "categories": ["apparel", "outdoor"],
+    "variants": [
+      {
+        "id": "var-trail-jacket-s",
+        "title": "Small",
+        "sku": "JKT-TRL-S",
+        "price": 198,
+        "inventory": 25,
+        "attributes": {
+          "size": "S"
+        }
+      },
+      {
+        "id": "var-trail-jacket-m",
+        "title": "Medium",
+        "sku": "JKT-TRL-M",
+        "price": 198,
+        "inventory": 30,
+        "attributes": {
+          "size": "M"
+        }
+      },
+      {
+        "id": "var-trail-jacket-l",
+        "title": "Large",
+        "sku": "JKT-TRL-L",
+        "price": 198,
+        "inventory": 18,
+        "attributes": {
+          "size": "L"
+        }
+      }
+    ],
+    "rating": 4.7,
+    "reviewCount": 34
+  },
+  {
+    "id": "prod-serene-candle",
+    "slug": "serene-soy-candle",
+    "title": "Serene Soy Candle",
+    "description": "Clean-burning soy wax candle with essential oil blend of cedarwood, bergamot, and lavender. 55-hour burn time.",
+    "price": 32,
+    "images": [
+      "https://picsum.photos/seed/prod-serene-candle-1/800/800",
+      "https://picsum.photos/seed/prod-serene-candle-2/800/800"
+    ],
+    "collections": ["wellness", "signature"],
+    "categories": ["home", "wellness"],
+    "variants": [
+      {
+        "id": "var-serene-candle-standard",
+        "title": "Standard",
+        "sku": "CND-SER-STD",
+        "price": 32,
+        "inventory": 70,
+        "attributes": {
+          "size": "8oz"
+        }
+      },
+      {
+        "id": "var-serene-candle-large",
+        "title": "Large",
+        "sku": "CND-SER-LRG",
+        "price": 42,
+        "inventory": 40,
+        "attributes": {
+          "size": "12oz"
+        }
+      }
+    ],
+    "rating": 4.9,
+    "reviewCount": 61
+  },
+  {
+    "id": "prod-pulse-earbuds",
+    "slug": "pulse-wireless-earbuds",
+    "title": "Pulse Wireless Earbuds",
+    "description": "Noise-cancelling earbuds with adaptive transparency, 24-hour battery life, and IPX4 sweat resistance.",
+    "price": 168,
+    "images": [
+      "https://picsum.photos/seed/prod-pulse-earbuds-1/800/800",
+      "https://picsum.photos/seed/prod-pulse-earbuds-2/800/800"
+    ],
+    "collections": ["latest-arrivals", "tech"],
+    "categories": ["tech", "wellness"],
+    "variants": [
+      {
+        "id": "var-pulse-earbuds-graphite",
+        "title": "Graphite",
+        "sku": "EAR-PUL-GPH",
+        "price": 168,
+        "inventory": 55,
+        "attributes": {
+          "color": "Graphite"
+        }
+      },
+      {
+        "id": "var-pulse-earbuds-cream",
+        "title": "Cream",
+        "sku": "EAR-PUL-CRM",
+        "price": 168,
+        "inventory": 48,
+        "attributes": {
+          "color": "Cream"
+        }
+      }
+    ],
+    "rating": 4.2,
+    "reviewCount": 17
+  }
+]

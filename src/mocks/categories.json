@@ -1,0 +1,32 @@
+[
+  {
+    "id": "cat-apparel",
+    "slug": "apparel",
+    "title": "Apparel"
+  },
+  {
+    "id": "cat-accessories",
+    "slug": "accessories",
+    "title": "Accessories"
+  },
+  {
+    "id": "cat-home",
+    "slug": "home",
+    "title": "Home"
+  },
+  {
+    "id": "cat-tech",
+    "slug": "tech",
+    "title": "Tech"
+  },
+  {
+    "id": "cat-wellness",
+    "slug": "wellness",
+    "title": "Wellness"
+  },
+  {
+    "id": "cat-outdoor",
+    "slug": "outdoor",
+    "title": "Outdoor"
+  }
+]
